@@ -1,2 +1,3 @@
 # Java-Snake-Game
-Test Project for my resume.
+My Java Snake Game Project.
+https://parth-tongse.github.io/Java-Snake-Game/
